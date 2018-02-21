@@ -3,11 +3,11 @@ Converts string to xml format and vice versa; replacing the necessary special ch
 
 Characters converted:
 
-| Regular        | String  |
+| Regular String | XML  |
 | ------------- | -----:|
-| < | &lt; |
-| > | &gt; |
-| ' | &apos; |
-| & | &amp; |
+| < | `&lt;` |
+| > | `&gt;` |
+| ' | `&apos;` |
+| & | `&amp;` |
 
 
